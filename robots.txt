@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gigaj0ule.github.io/resources-xthv8x/sitemap.xml
